@@ -3,7 +3,7 @@
 
 ---
 
-# Detection Engineering & Purple Team Validation — Building an Enterprise SOC Detection Pipeline
+# Detection Engineering & Purple Team Validation - Building an Enterprise SOC Detection Pipeline
 
 Task 7 marked the transition from executing security assessments to validating whether an enterprise Security Operations Center (SOC) can detect, investigate, and respond to real-world attack activity. The objective was not simply to perform offensive techniques, but to confirm that defensive controls generated meaningful telemetry across the network, Active Directory, and Windows Security logs.
 
