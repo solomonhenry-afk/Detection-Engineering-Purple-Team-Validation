@@ -491,10 +491,13 @@ Passionate about building enterprise-scale security labs that simulate real-worl
 
 💼 LinkedIn: https://www.linkedin.com/in/bassey-solomon-henry/
 
-🌐 GitHub: https://github.com/solomonhenry-afk/Bassey-Solomon-Henry📧 Email: solomon_henry111@outlook.com
-Tech Stack & GitHub Analytics
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,powershell,python,git,github,vscode"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=solomonhenry-afk&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=solomonhenry-afk&theme=tokyonight"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomonhenry-afk&layout=compact&theme=tokyonight"/> </p>
+🌐 GitHub: https://github.com/solomonhenry-afk/Bassey-Solomon-Henry
+📧 Email: solomon_henry111@outlook.com
 
-"Security is not measured by preventing every attack. It is measured by understanding systems deeply enough to detect, investigate, and continuously improve against evolving threats."
+Security is not measured by preventing every attack. It is measured by understanding systems deeply enough to detect, investigate, and continuously improve against evolving threats.
 
 — Solomon Henry
+
+# Tech Stack & GitHub Analytics
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,bash,powershell,python,git,github,vscode"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=solomonhenry-afk&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=solomonhenry-afk&theme=tokyonight"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomonhenry-afk&layout=compact&theme=tokyonight"/> </p>
