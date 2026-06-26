@@ -91,12 +91,17 @@ Enterprise Objectives
 
 # This project was designed to answer key enterprise security questions:
 
-**Can reconnaissance activity be identified?**
-**Are authentication events fully logged?**
-**Can Kerberos abuse be detected?**
-**Does remote administration generate sufficient telemetry?**
-**Does packet-level evidence align with Windows Event Logs?**
-**Can SOC analysts correlate attacker activity across multiple telemetry sources?**
+Can reconnaissance activity be identified?
+
+Are authentication events fully logged?
+
+Can Kerberos abuse be detected?
+
+Does remote administration generate sufficient telemetry?
+
+Does packet-level evidence align with Windows Event Logs?
+
+Can SOC analysts correlate attacker activity across multiple telemetry sources?
 
 # Technologies Used
 
